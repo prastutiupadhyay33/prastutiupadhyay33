@@ -2,20 +2,20 @@
 <h3 align="center">Artificial Intelligence Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="AI Coding GIF"/>
 </p>
 
 <h3 align="center">About Me</h3>
 <p align="center">
   🎓 Currently learning <b>B.Sc. Artificial Intelligence</b><br>
   🤖 Passionate about Artificial Intelligence & Machine Learning<br>
-  📊 Interested in Data Science and Computer Vision<br>
-  🚀 Always exploring new AI technologies
+  💻 Interested in AI-driven problem solving and Computer Vision<br>
+  🚀 Continuously improving skills in Data Science & Deep Learning
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.kaggle.com/prastutiupadhyay33" target="blank">
+<a href="https://www.kaggle.com/prastutiupadhyay33" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" height="30" width="40" />
 </a>
 </p>
